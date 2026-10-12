@@ -75,7 +75,7 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 
 # Define Streamlit app
 st.title("Restaurant Recommendation System")
-st.subheader("Project owner: Praju")
+st.subheader("Project owner: Sangavi Sambathkumar")
 
 # Define the custom theme for the sidebar, to change the color replace the color code in background-color
 custom_theme = """
