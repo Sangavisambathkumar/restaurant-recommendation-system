@@ -1,0 +1,13 @@
+# Streamlit app
+streamlit>=1.18
+pandas
+numpy
+scikit-learn
+nltk
+
+# Extra libraries used by the notebook
+matplotlib
+spacy
+fuzzywuzzy
+python-Levenshtein
+jupyter

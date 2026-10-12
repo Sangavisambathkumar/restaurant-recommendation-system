@@ -1,0 +1,24 @@
+# Data (the Yelp dataset is large and can't be redistributed)
+raw data/*
+processed data/*
+!raw data/.gitkeep
+!processed data/.gitkeep
+*.json
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
